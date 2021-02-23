@@ -15,7 +15,7 @@
 <br/>gosto de Jogos Multiplayer no geral 
 <br/>Gosto de flmes e series Animes e musicas :smile:
 
-<br/>#meus Contatos
+<br/>#meus Contatos<br/>
 :newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192/:newspaper:<br/>
 <br/>:email:dvanlds@gmail.com:email:
 
