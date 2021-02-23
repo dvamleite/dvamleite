@@ -12,8 +12,8 @@
 
 <br/>#:smile:Sobre mim
 <br/>Gosto de Programação como Hob nao Apenas como sonho de futura profição 
-<br/>gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns no Unity Com C#)
-<br/>Gosto de flmes e series Animes e musicas :smile:
+<br/>gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
+<br/>Gosto de filmes e series, Animes e musicas :smile:
 
 <br/>#meus Contatos<br/>
 <br/>:newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192/:newspaper:<br/>
