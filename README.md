@@ -3,7 +3,7 @@
 #Dvam Leite
 <br/>:star:Apaixonado por Programção e tecnologia de modo geral 
 <br/>:star:Sonho Em Ser capaz de Resolver qualquer problema com Tecnologia 
-<br/>:star:Procuro me expecializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
+<br/>:star:Procuro me especializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
 
 :house:No Momento Em Casa:house:<br/> Mas embusca do Proximo Nivel Com a RocketSeat:rocket::rocket: Para um dia encontra uma equipe legal :grin::grin:
 
