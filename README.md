@@ -5,13 +5,13 @@
 <br/>:star:Sonho Em Ser capaz de Resolver qualquer problema com Tecnologia 
 <br/>:star:Procuro mes expecializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
 
-:house:No Momento Em:house: Mas embusca do Proximo Nivel Com a :rocket:RocketSeat Para um dia encontra uma equipe legal :grin::grin:
+:house:No Momento Em Casa:house:<br/> Mas embusca do Proximo Nivel Com a :rocket:RocketSeat Para um dia encontra uma equipe legal :grin::grin:
 
 <br/>#:mortar_board:Atualmente estudando
-<br/>#:black_nib:HTML :black_nib:CSS :black_nib:JAVASCRIPT :black_nib: NEXT :black_nib: NODE
+<br/>#:black_nib:HTML<br/> :black_nib:CSS<br/> :black_nib:JAVASCRIPT <br/>:black_nib: NEXT<br/> :black_nib: NODE
 
 <br/>#:smile:Sobre mim
-<br/>Gosto de Programação como Hob nao Apenas como sonhe de futura profição 
+<br/>Gosto de Programação como Hob nao Apenas como sonho de futura profição 
 <br/>gosto de Jogos Multiplayer no geral 
 <br/>Gosto de flmes e series Animes e musicas :smile:
 
