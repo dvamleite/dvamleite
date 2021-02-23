@@ -12,7 +12,7 @@
 
 <br/>#:smile:Sobre mim
 <br/>Gosto de Programação como Hob nao Apenas como sonho de futura profição 
-<br/>gosto de Jogos Multiplayer no geral 
+<br/>gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns no Unity Com C#)
 <br/>Gosto de flmes e series Animes e musicas :smile:
 
 <br/>#meus Contatos<br/>
