@@ -1,7 +1,7 @@
 ### E Ai Pessoal 👋
 
 #Dvam Leite
-<br/>:star:Apaixonado por Programção e tecnologia de modo geral 
+<br/>:star:Apaixonado por Programção e tecnologia 
 <br/>:star:Sonho Em Ser capaz de Resolver qualquer problema com Tecnologia 
 <br/>:star:Procuro me especializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
 
