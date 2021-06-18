@@ -11,7 +11,7 @@
 <br/>#:black_nib:HTML<br/> :black_nib:CSS<br/> :black_nib:JAVASCRIPT <br/>:black_nib: REACT<br/>:black_nib: NEXT<br/> :black_nib: NODE
 
 <br/>#:smile:Sobre mim
-<br/>Gosto de Programação como Hob nao Apenas como sonho de futura profição 
+<br/>Gosto de Programação como Hob não Apenas como sonho de futura profição 
 <br/>Gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
