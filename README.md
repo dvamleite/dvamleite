@@ -2,17 +2,17 @@
 
 #Dvam Leite
 <br/>:star:Apaixonado por Programção e tecnologia 
-<br/>:star:Sonho Em Ser capaz de Resolver qualquer problema com Tecnologia 
+<br/>:star:Estudando Constantemente para Ser capaz de Resolver qualquer problema com Tecnologia 
 <br/>:star:Procuro me especializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
 
-:house:No Momento Em Casa:house:<br/> Mas embusca do Proximo Nivel Com a RocketSeat:rocket::rocket: Para um dia encontra uma equipe legal :grin::grin:
+:house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Com a RocketSeat:rocket::rocket: Para um dia encontra uma equipe legal :grin::grin:
 
 <br/>#:mortar_board:Atualmente estudando
-<br/>#:black_nib:HTML<br/> :black_nib:CSS<br/> :black_nib:JAVASCRIPT <br/>:black_nib: NEXT<br/> :black_nib: NODE
+<br/>#:black_nib:HTML<br/> :black_nib:CSS<br/> :black_nib:JAVASCRIPT <br/>:black_nib: REACT<br/>:black_nib: NEXT<br/> :black_nib: NODE
 
 <br/>#:smile:Sobre mim
 <br/>Gosto de Programação como Hob nao Apenas como sonho de futura profição 
-<br/>gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
+<br/>Gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
 <br/>#meus Contatos<br/>
