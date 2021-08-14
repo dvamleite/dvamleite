@@ -16,7 +16,7 @@
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
 <br/>#meus Contatos<br/>
-<br/>:newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192/:newspaper:<br/>
+<br/>:newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192<br/>
 <br/>:email:dvanlds@gmail.com:email:
 
 
