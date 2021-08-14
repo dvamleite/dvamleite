@@ -7,8 +7,26 @@
 
 :house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Com a RocketSeat:rocket::rocket: Para um dia encontra uma equipe legal :grin::grin:
 
-<br/>#:mortar_board:Atualmente estudando
-<br/>#:black_nib:HTML<br/> :black_nib:CSS<br/> :black_nib:JAVASCRIPT <br/>:black_nib: REACT<br/>:black_nib: NEXT<br/> :black_nib: NODE
+<br/>#:mortar_board:Atualmente estudando Front-end
+<div style="display: inline_block"><br>
+  <img align="center" alt="dvam-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dvam-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="dvam-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="dvam-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="dvam-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dvam-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div>
+
+<br/>#:mortar_board:Atualmente estudando Back-end
+<div style="display: inline_block"><br>
+  <img align="center" alt="dvam-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dvam-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="dvam-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ <img align="center" alt="dvam-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="dvam-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   
+</div>
+
+
 
 <br/>#:smile:Sobre mim
 <br/>Apaixonado Por tecnologia sempre perco noção do tempo quando estou em um Computador 
