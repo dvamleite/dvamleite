@@ -19,6 +19,11 @@
 <br/>:newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192<br/>
 <br/>:email:dvanlds@gmail.com:email:
 
+ <div>
+  <a href="https://github.com/dvamleite">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **dvamleite/dvamleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
