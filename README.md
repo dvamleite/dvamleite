@@ -5,7 +5,7 @@
 <br/>:star:Estudando Constantemente para Ser capaz de Resolver qualquer problema com Tecnologia 
 <br/>:star:Procuro me especializar cada vez mais e mais para Ajuda a construir um futuro melhor por meio da tecnologia 
 
-:house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Com a RocketSeat:rocket::rocket: Para um dia encontra uma equipe legal :grin::grin:
+:house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Para um dia encontra uma equipe legal :grin::grin:
 
 <br/>#:mortar_board:Atualmente estudando Front-end
 <div style="display: inline_block"><br>
