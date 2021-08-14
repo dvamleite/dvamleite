@@ -34,9 +34,14 @@
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
 <br/>#meus Contatos<br/>
-<br/>:newspaper:https://www.linkedin.com/in/dvam-leite-da-silva-010168192<br/>
-<br/>:email:dvanlds@gmail.com:email:
 
+<div>  
+  <a href="https://instagram.com/dvamlds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dvanlds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dvam-leite-da-silva-010168192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+<br/>
  <div>
   <a href="https://github.com/dvamleite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvamleite&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
