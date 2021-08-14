@@ -7,7 +7,7 @@
 
 :house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Para um dia encontra uma equipe legal :grin::grin:
 
-<br/>#:mortar_board:Sempre estudando Front-end
+<br/>#:mortar_board:Sempre estudando<br/> Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="dvam-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dvam-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="dvam-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
-<br/>#:mortar_board:Sempre estudando Back-end
+<br/>#:mortar_board:Sempre estudando<br/> Back-end
 <div style="display: inline_block"><br>
   <img align="center" alt="dvam-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dvam-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
