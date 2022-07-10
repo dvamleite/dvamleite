@@ -7,6 +7,15 @@
 
 :house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Para um dia encontra uma equipe legal :grin::grin:
 
+<br/>#meus Contatos<br/>
+
+<div>  
+  <a href="https://instagram.com/dvamlds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dvanlds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dvam-leite-da-silva-010168192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
 <br/>#:mortar_board:Foco EM<br/> Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="dvam-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,14 +39,7 @@
 <br/>Gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
-<br/>#meus Contatos<br/>
 
-<div>  
-  <a href="https://instagram.com/dvamlds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dvanlds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dvam-leite-da-silva-010168192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
 <br/>
  <div>
   <a href="https://github.com/dvamleite">
