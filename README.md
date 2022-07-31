@@ -40,6 +40,15 @@
 <br/>Gosto de filmes e series, Animes e musicas :smile:
 
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/fazeelkhalid/count.svg" />  
+</p>
+
+
 <br/>
  <div>
   <a href="https://github.com/dvamleite">
