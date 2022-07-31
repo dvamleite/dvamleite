@@ -45,7 +45,7 @@
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/fazeelkhalid/count.svg" />  
+  <img src="https://profile-counter.glitch.me/dvamleite/count.svg" />  
 </p>
 
 
