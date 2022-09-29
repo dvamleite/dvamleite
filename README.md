@@ -8,7 +8,7 @@
 :house:No Momento Em Casa:house:<br/> Mas em busca do Proximo Nivel Para um dia encontra uma equipe legal :grin::grin:
 
 <br/>
- <h1>Contatos<h1/>
+ <h2>Contatos<h2/>
 
  <div>
 <a href = "mailto:dvanlds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
