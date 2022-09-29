@@ -26,11 +26,6 @@
 </div>
 
 
-<br/>#:smile:Sobre mim
-<br/>Apaixonado Por tecnologia sempre perco noção do tempo quando estou em um Computador 
-<br/>Gosto de Jogos Multiplayer no geral (Me Arisco ate a Criar Alguns na Unity Com C#)
-<br/>Gosto de filmes e series, Animes e musicas :smile:
-
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
