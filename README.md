@@ -12,10 +12,6 @@ E Ai Pessoal 👋<br><br>⭐Apaixonado por Programção e tecnologia<br>⭐Estud
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dvamleite&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dvamleite&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dvamleite&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=dvamleite&icon=4&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -29,15 +25,14 @@ E Ai Pessoal 👋<br><br>⭐Apaixonado por Programção e tecnologia<br>⭐Estud
   <img src="https://profile-counter.glitch.me/dvamleite/count.svg" />  
 </p>
 
-
-<br/>
- <div>
-  <a href="https://github.com/dvamleite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvamleite&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvamleite&layout=compact&langs_count=7&theme=merko"/>
-</div>
  
  ![Snake animation](https://github.com/dvamleite/dvamleite/blob/output/github-contribution-grid-snake.svg)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dvamleite&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 <!--
 **dvamleite/dvamleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
